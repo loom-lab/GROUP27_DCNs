@@ -1,0 +1,50 @@
+QUANTITATIVE TOPIC ANALYSIS REPORT
+Analysis date: 2026-10-26 23:18:08
+Selected topics: [0, 2, 3, 4, 5, 8, 10]
+
+Total posts analyzed: 156
+Date range: 2023-01-04 14:27:16 to 2024-06-29 13:18:41
+Total unique users: 58
+Total comments: 299
+
+Issues with miner ordering (Topic 0):
+  Posts: 32 (20.5%)
+  Unique users: 23 (1.39 posts/user)
+  Comments: 79 total, 2.47 mean/post, 3.00 median/post
+  First post: 2023-03-10 15:57:35  Last post: 2024-06-10 00:17:52
+
+Issues with Helium app & wallet (Topic 2):
+  Posts: 31 (19.9%)
+  Unique users: 24 (1.29 posts/user)
+  Comments: 55 total, 1.77 mean/post, 2.00 median/post
+  First post: 2023-01-15 06:01:50  Last post: 2024-06-11 03:47:06
+
+Community engagement (Topic 3):
+  Posts: 31 (19.9%)
+  Unique users: 24 (1.29 posts/user)
+  Comments: 61 total, 1.97 mean/post, 2.00 median/post
+  First post: 2023-01-04 14:27:16  Last post: 2024-05-30 08:35:20
+
+Network governance (Topic 4):
+  Posts: 31 (19.9%)
+  Unique users: 25 (1.24 posts/user)
+  Comments: 53 total, 1.71 mean/post, 2.00 median/post
+  First post: 2023-01-16 09:57:17  Last post: 2024-06-13 07:28:00
+
+Project vision (Topic 5):
+  Posts: 0 (0.0%)
+  Unique users: 0
+  Comments: 0 total, nan mean/post, nan median/post
+  First post: NaT  Last post: NaT
+
+Witnessing & reward (Topic 8):
+  Posts: 31 (19.9%)
+  Unique users: 24 (1.29 posts/user)
+  Comments: 51 total, 1.65 mean/post, 2.00 median/post
+  First post: 2023-01-11 12:49:42  Last post: 2024-06-29 13:18:41
+
+Token value & economy (Topic 10):
+  Posts: 0 (0.0%)
+  Unique users: 0
+  Comments: 0 total, nan mean/post, nan median/post
+  First post: NaT  Last post: NaT

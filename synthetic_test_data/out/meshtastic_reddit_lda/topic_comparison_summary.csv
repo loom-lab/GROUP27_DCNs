@@ -1,0 +1,6 @@
+topic,topic_label,total_posts,unique_users,posts_per_user,total_comments,mean_comments,median_comments,std_comments,date_first_post,date_last_post,lifespan_days
+3,Community engagement,36,28,1.2857142857142858,68,1.8888888888888888,1.5,1.2136786531103996,2023-01-02 01:59:36,2024-06-24 08:10:52,539.0
+4,Weekly node sighting,0,0,0.0,0,,,,,,
+5,Onboarding experience,35,29,1.206896551724138,74,2.1142857142857143,2.0,1.6937849813436208,2023-01-27 11:55:54,2024-04-02 02:42:05,430.0
+9,Resource sharing,35,25,1.4,76,2.1714285714285713,2.0,1.8066171554091053,2023-01-08 10:13:52,2024-06-19 08:29:50,527.0
+11,Motivations,0,0,0.0,0,,,,,,

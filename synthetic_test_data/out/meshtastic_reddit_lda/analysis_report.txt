@@ -1,0 +1,47 @@
+======================================================================
+REDDIT POSTS LDA TOPIC MODELING - COMPREHENSIVE REPORT
+======================================================================
+
+DATASET STATISTICS
+----------------------------------------------------------------------
+Total posts: 250
+Date range: 2023-01-02 22:44:49 to 2024-06-28 23:48:12
+Unique authors: 57
+Total comments: 500
+Average comments per post: 2.00
+Std. dev. comments per post: 1.49
+
+MODEL STATISTICS
+----------------------------------------------------------------------
+Number of topics: 11
+Vocabulary size: 86
+Perplexity: 14.22
+Log-likelihood: -38619.98
+
+TOPIC DISTRIBUTION
+----------------------------------------------------------------------
+Topic 0: 0 posts (0.0%) - Avg confidence: nan
+Topic 1: 35 posts (14.0%) - Avg confidence: 0.984
+Topic 2: 0 posts (0.0%) - Avg confidence: nan
+Topic 3: 0 posts (0.0%) - Avg confidence: nan
+Topic 4: 36 posts (14.4%) - Avg confidence: 0.984
+Topic 5: 36 posts (14.4%) - Avg confidence: 0.985
+Topic 6: 36 posts (14.4%) - Avg confidence: 0.986
+Topic 7: 0 posts (0.0%) - Avg confidence: nan
+Topic 8: 36 posts (14.4%) - Avg confidence: 0.984
+Topic 9: 36 posts (14.4%) - Avg confidence: 0.984
+Topic 10: 35 posts (14.0%) - Avg confidence: 0.984
+
+TOP WORDS PER TOPIC
+----------------------------------------------------------------------
+Topic 0: delegate, unsure, wind, storm, charter, wonder, vote, unicorn, migration, twilight
+Topic 1: neighborhood, recipe, secret, yeast, sourdough, rumor, oven, crust, pastry, flour
+Topic 2: delegate, unsure, wind, storm, charter, wonder, vote, unicorn, migration, twilight
+Topic 3: delegate, unsure, wind, storm, charter, wonder, vote, unicorn, migration, twilight
+Topic 4: council, vote, policy, committee, quorum, session, charter, delegate, ballot, amendment
+Topic 5: twilight, glimpse, glitter, unicorn, hooves, forest, grove, hoofprint, mane, meadow
+Topic 6: suspicious, uncertain, second, guess, skeptical, question, hesitate, maybe, ponder, overthink
+Topic 7: delegate, unsure, wind, storm, charter, wonder, vote, unicorn, migration, twilight
+Topic 8: organism, species, photosynthesis, genome, specimen, ecosystem, habitat, cell, mutation, microscope
+Topic 9: season, forecast, thunder, cloud, drizzle, omen, storm, legend, moon, wind
+Topic 10: lucid, sleep, nightmare, journal, surreal, vision, subconscious, drowsy, symbol, dream
